@@ -1,0 +1,3 @@
+model,TN,FP,FN,TP
+logreg,189,58,17,30
+dtree,219,28,31,16
